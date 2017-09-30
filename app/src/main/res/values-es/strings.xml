@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="check">Comprueba</string>
+    <string name="correct">Muy bien!</string>
+    <string name="finish">Acaba</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">Siguiente</string>
+    <string name="prev">Anterior</string>
+    <string name="question">Pregunta</string>
+
+    <array name = "all_questions">
+        <item>Cuál es la capital de Bhutan?;Ouagadougou;Phnom Penh;*Thimphu;Zgighiti </item>
+        <item>Cuál es la capital de Antigua and Barbuda?;*Saint John’s;Bridgetown;Uagadugú;San José </item>
+        <item>Cuál es la capital de Brunéi?;Hanói;Majuro;Nom Pen;*Bandar Seri Begawan </item>
+    </array>
+</resources>
